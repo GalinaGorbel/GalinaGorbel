@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     </li>
   </ul>
   <br>
-  <li><b>FTL - прямая машина</b></li>
+  <li><b>Full Truck Load</b></li>
   <ul type="circle"><li>Технологии: BEM, Adaptive layout, Sass, Vanilla JS</li>
     <li>
          <a href="https://github.com/GalinaGorbel/FTL">Repo</a>
