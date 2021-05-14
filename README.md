@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   </ul>
   <br>
   <li><b>FTL - прямая машина</b></li>
-  <ul type="circle"><li>Технологии: Adaptive layout, Sass, Vanilla JS</li>
+  <ul type="circle"><li>Технологии: BEM, Adaptive layout, Sass, Vanilla JS</li>
     <li>
          <a href="https://github.com/GalinaGorbel/FTL">Repo</a>
          <a href="https://galinagorbel.github.io/FTL/">Github pages</a>
