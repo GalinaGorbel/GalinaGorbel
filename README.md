@@ -28,7 +28,7 @@ Here are some ideas to get you started:
          <a href="https://galinagorbel.github.io/diplom/">Github pages</a>
     </li>
   </ul>
-  <br>
+ <p></p>
   <li><b>Full Truck Load - vehicle order configuration page</b></li>
   <ul type="circle"><li>Технологии: BEM, Adaptive layout, Sass, Vanilla JS</li>
     <li>
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
          <a href="https://galinagorbel.github.io/FTL/">Github pages</a>
     </li>
   </ul>
-  <br>
+<p></p>
   <li><b>Uber_landing-page</b></li>
   <ul type="circle"><li>Технологии: Adaptive layout, Bootstrap grid, Sass</li>
     <li>
