@@ -29,6 +29,14 @@ Here are some ideas to get you started:
     </li>
   </ul>
  <p></p>
+    <li><b>Cat Shop</b></li>
+  <ul type="circle"><li>Технологии: Gulp, Vanilla JS, BEM naming, Adaptive layout, Sass</li>
+    <li>
+         <a href="https://github.com/GalinaGorbel/CatShop">Repo</a>
+         <a href="https://galinagorbel.github.io/CatShop_pages/">Github pages</a>
+    </li>
+  </ul>
+<p></p>
   <li><b>Full Truck Load - vehicle order configuration page</b></li>
   <ul type="circle"><li>Технологии: BEM, Adaptive layout, Sass, Vanilla JS</li>
     <li>
