@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 В данный момент ищу работу Junior front-end developer.
 
-<b>Мои проекты:</b>
+<b>My projects:</b>
 <ul><li><b>Дипломный проект по окончанию курса JS</b></li>
   <ul type="circle"><li>Технологии: Vanilla JS, Fetch, Webpack</li>
     <li>
@@ -53,3 +53,12 @@ Here are some ideas to get you started:
     </li>
   </ul>
 </ul>
+
+<b>I'am learning <a href="https://vuejs.org/">VUE</a></b>
+
+<b>My VUE projects</b>
+<ul><li><b>Monster Slayer</b></li>
+  <ul type="circle"><li>Тechnologies: Basics and Core concepts of Vue</li>
+        <li>
+         <a href="https://github.com/GalinaGorbel/Monster-Slayer---Vue-">Repo</a>
+    </li>
