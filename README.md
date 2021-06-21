@@ -68,7 +68,7 @@ Here are some ideas to get you started:
   <ul><li><b>Remember Me</b></li>
   <ul type="circle"><li>Тechnologies: Vue component (comunication, dynamic), provide + inject, slots</li>
         <li>
-         <a href="https://github.com/GalinaGorbel/Monster-Slayer---Vue-">Repo</a>
+         <a href="https://github.com/GalinaGorbel/Remember-Me">Repo</a>
     </li>
   </ul>  
 </ul>    
