@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <b>My projects:</b>
 <ul><li><b>Дипломный проект по окончанию курса JS</b></li>
-  <ul type="circle"><li>Технологии: Vanilla JS, Fetch, Webpack</li>
+  <ul type="circle"><li>Тechnologies: Vanilla JS, Fetch, Webpack</li>
     <li>
          <a href="https://github.com/GalinaGorbel/diplom">Repo</a>
          <a href="https://galinagorbel.github.io/diplom/">Github pages</a>
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   </ul>
  <p></p>
     <li><b>Cat Shop</b></li>
-  <ul type="circle"><li>Технологии: Gulp, Vanilla JS, BEM naming, Adaptive layout, Sass</li>
+  <ul type="circle"><li>Тechnologies: Gulp, Vanilla JS, BEM naming, Adaptive layout, Sass</li>
     <li>
          <a href="https://github.com/GalinaGorbel/CatShop">Repo</a>
          <a href="https://galinagorbel.github.io/CatShop_pages/">Github pages</a>
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   </ul>
 <p></p>
   <li><b>Full Truck Load - vehicle order configuration page</b></li>
-  <ul type="circle"><li>Технологии: BEM, Adaptive layout, Sass, Vanilla JS</li>
+  <ul type="circle"><li>Тechnologies: BEM, Adaptive layout, Sass, Vanilla JS</li>
     <li>
          <a href="https://github.com/GalinaGorbel/FTL">Repo</a>
          <a href="https://galinagorbel.github.io/FTL/">Github pages</a>
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   </ul>
 <p></p>
   <li><b>Uber_landing-page</b></li>
-  <ul type="circle"><li>Технологии: Adaptive layout, Bootstrap grid, Sass</li>
+  <ul type="circle"><li>Тechnologies: Adaptive layout, Bootstrap grid, Sass</li>
     <li>
         <a href="https://github.com/GalinaGorbel/Uber_landing-page">Repo</a>
         <a href="https://galinagorbel.github.io/Uber_landing-page/">Github pages</a>
@@ -62,3 +62,13 @@ Here are some ideas to get you started:
         <li>
          <a href="https://github.com/GalinaGorbel/Monster-Slayer---Vue-">Repo</a>
     </li>
+  </ul>
+</ul>    
+<p></p>
+  <ul><li><b>Remember Me</b></li>
+  <ul type="circle"><li>Тechnologies: Vue component (comunication, dynamic), provide + inject, slots</li>
+        <li>
+         <a href="https://github.com/GalinaGorbel/Monster-Slayer---Vue-">Repo</a>
+    </li>
+  </ul>  
+</ul>    
