@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   </ul>
 <p></p>
   <li><b>Uber_landing-page</b></li>
-  <ul type="circle"><li>Тechnologies: Adaptive layout, Bootstrap grid, Sass</li>
+  <ul type="circle"><li>Тechnologies: Adaptive layout, Sass</li>
     <li>
         <a href="https://github.com/GalinaGorbel/Uber_landing-page">Repo</a>
         <a href="https://galinagorbel.github.io/Uber_landing-page/">Github pages</a>
