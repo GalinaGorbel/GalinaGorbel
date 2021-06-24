@@ -70,7 +70,7 @@ Here are some ideas to get you started:
   <ul type="circle"><li>Тechnologies: Vue component (comunication, dynamic), provide + inject, slots</li>
         <li>
          <a href="https://github.com/GalinaGorbel/Remember-Me">Repo</a>
-          <a href="https://github.com/GalinaGorbel/Remember-Me/deployments/activity_log?environment=github-pages">Github pages</a>
+          <a href="https://galinagorbel.github.io/Remember-Me/">Github pages</a>
     </li>
   </ul>  
 </ul>    
