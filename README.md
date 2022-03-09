@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Ищу работу Junior front-end developer.
 
 <b>My projects:</b>
 <ul><li><b>Дипломный проект по окончанию курса JS</b></li>
